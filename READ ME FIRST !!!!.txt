@@ -1,0 +1,26 @@
+AT FIRST DON'T OPEN (.exe) FILE BECAUSE IT MIGHT SHOW SOME ERRORS, SO OPEN THE SOURCE CODE AND RUN IT!!
+
+HOW TO USE ?
+- FIRST OPEN main.c (SOURCE FILE) AND RUN IT. AFTER YOU RUN IT, SEARCH FOR (ourmail.com) AND THEN 
+YOU CAN SIGN UP OR LOGIN AND USE OURMAIL.
+
+***CURRENT OURMAIL USERNAME & PASSWORD***
+Login id:- code-projects@ourmail.com
+Password:- code0
+
+
+                                 NOTE:
+
+I have created this according to Windows10 so on windows7 there is a problem of graphics or GUI which I design through 
+printf. Acoording to windows10 its compile .exe its of greater font size so thats why on windows7 compile .exe all printf 
+things will messed upped! 
+
+ 
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+THANK YOU FOR DOWNLOADING :) 

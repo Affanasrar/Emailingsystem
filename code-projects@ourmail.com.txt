@@ -1,0 +1,10 @@
+		'USER DATA'
+Name: code projects
+Username: code-projects@ourmail.com
+Birthday: 02/02/1996
+Gender: male
+Location: abc/defghi
+Mobile #: +9779876554123
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'

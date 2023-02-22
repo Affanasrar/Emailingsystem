@@ -1,0 +1,10 @@
+		'USER DATA'
+Name: Atif arshad
+Username: atifarshad1@ourmail.com
+Birthday: 11-08-2007
+Gender: male
+Location: karachi-pakistan
+Mobile #: 0301-2291426
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'

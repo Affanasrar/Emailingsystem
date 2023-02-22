@@ -1,0 +1,10 @@
+		'USER DATA'
+Name: affan ahmed
+Username: affanahmed809@ourmail.com
+Birthday: 12-05-2004
+Gender: male
+Location: karachi
+Mobile #: 0300-2162270
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'

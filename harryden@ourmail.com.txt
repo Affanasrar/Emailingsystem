@@ -1,0 +1,13 @@
+		'USER DATA'
+Name: harry den
+Username: harryden@ourmail.com
+Birthday: 02/22/1980
+Gender: Male
+Location: nple
+Mobile #: +99-9876543210
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		'MAIL BOX'
+From: code-projects@ourmail.com
+Dear Client, your Project has been approved by XYZ company. ....... . . .
+--------------------------------------------------------------
